@@ -9,6 +9,7 @@
 ## 🛠 Technologies Used  
 - **C++**  
 - **OpenGL**  
+- **MongoDB** (for authentication and high-score tracking)  
 
 ## 🎯 How to Play  
 1. Letters appear randomly on different balls.  
@@ -19,5 +20,6 @@
 ## 🚀 Features  
 ✅ Multi-language support (Hindi, English, Bhojpuri)  
 ✅ Real-time animation using OpenGL  
-✅ High-score tracking system  
+✅ High-score tracking system using MongoDB  
+✅ User authentication with MongoDB  
 
